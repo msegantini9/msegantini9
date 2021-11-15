@@ -1,11 +1,8 @@
-<h1 align="center">Olá 👋, eu sou Matheus Segantini de Almeida</h1>
-<h3 align="center">Atualmente estudo no IFES-NV e à dois anos estudo programação por conta própria</h3>
+<h1 align="center">Olá 👋, eu sou Matheus Segantini de Almeida</h1></br>
+<h3 align="center">Técnico em Edificações (3/4) - IFES/NV</h3></br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msegantini9&label=Profile%20views&color=496dda&style=flat" alt="msegantini9" /> </p>
 
-- 🌱 Atualmente estou estudando **HTML, CSS, JavaScript, C#, C++(Arduino) e JAVA,**
-
-- 👨‍💻 Todos meus projetos estão disponíveis em: [https://github.com/msegantini9](https://github.com/msegantini9)
+- 🌱 Atualmente estudo **C#, C++, JAVA, NODE.JS, HTML, CSS e JavaScript**
 
 - 📫 Como entrar em contato comigo: **m.segantini9@gmail.com**
 
