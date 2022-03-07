@@ -1,6 +1,6 @@
 <h2 align="center">Oiii, eu sou o Matheus, programador e amante de tecnologia!</h2>
 
-<p align="left">Olá, eu sou o Matheus Segantini de Almeida. Atualmente moro em São Mateus - ES e curso o terceiro ano do Técnico em Edificações do Ifes Campus Nova Venécia. Atualmente sou programador e tenho conhecimento em C#, C++ (Softwares Embarcados), Java, JavaScript, HTML e CSS (Para aplicações web basicas). Desde cedo sempre fui entusiasta da área da tecnologia, desde desmontar carrinhos de controle remoto até descobrir bugs em softwares! É uma grande oportunidade ter você por aqui, Seja Bem Vinde!</p>
+<p align="left">Olá, eu sou o Matheus Segantini de Almeida. Atualmente moro em São Mateus - ES e curso o terceiro ano do Técnico em Edificações do Ifes Campus Nova Venécia. Atualmente sou programador e tenho conhecimento em C#, C++ (Softwares Embarcados), JavaScript. Desde cedo sempre fui entusiasta da área da tecnologia, desde desmontar carrinhos de controle remoto até descobrir bugs em softwares!</p>
 </br>
 <div align="center">
   <a href="https://github.com/msegantini9">
